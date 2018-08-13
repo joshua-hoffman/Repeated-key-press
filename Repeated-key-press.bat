@@ -17,6 +17,6 @@ echo --------------------------------------
 echo Hit a key!
 echo --------------------------------------
  
-pause>null
+pause>nul
 cls
 goto start

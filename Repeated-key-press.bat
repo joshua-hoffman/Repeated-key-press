@@ -5,7 +5,7 @@ set /a COUNT=COUNT+1
 set CLOCK=%TIME%
  
 pushd %~dp0
-cscript VBS_key.vbs
+cscript Repeated-key-press.vbs
 cls
 echo --------------------------------------
 echo This Script was started at %CURR%
